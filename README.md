@@ -12,15 +12,15 @@ Table of Contents
 2. Python Environment 
 3. Execution Steps
 
-###1. File Description
+1. File Description
 	1. media.py - File containing the Movie class. This class stores movie title, story line, poster image, and movie trailer URL.
 	2. fresh_tomatoes.html - File containing
 	3. entertainment_center.py - 
 
-###2. Python Environment
+2. Python Environment
 	1. Python 2.7.14
 	
-###3. Execution Steps
+3. Execution Steps
 	1. Fork Repository
 	2. From terminal run the following command when if you are currently in the directory with all the files $ python media.py
 	3. Alternatively start Python IDLE environment
