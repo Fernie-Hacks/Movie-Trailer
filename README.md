@@ -23,7 +23,7 @@ Table of Contents
 	
 3. Execution Steps
 	1. Fork Repository:
-		1.[Github Repository](https://github.com/Fernie-Hacks/Movie-Trailer)
+		[Github Repository](https://github.com/Fernie-Hacks/Movie-Trailer)
 	2. From terminal run the following command (Assuming working directory contains all the project files that were forked in previous step). 
 		1. $ python media.py
 	3. Alternatively start Python IDLE environment
