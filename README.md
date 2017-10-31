@@ -11,6 +11,7 @@ Table of Contents
 1. File Description
 2. Python Environment 
 3. Execution Steps
+-----------------
 
 1. File Description
 	1. media.py - File containing the Movie class. This class stores movie title, story line, poster image, and movie trailer URL.
