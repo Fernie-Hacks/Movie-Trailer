@@ -25,6 +25,6 @@ Table of Contents
 	1. Fork Repository:
 		[Github Repository](https://github.com/Fernie-Hacks/Movie-Trailer)
 	2. From terminal run the following command (Assuming working directory contains all the project files that were forked in previous step). 
-		1. $ python media.py
+		1. $ python entertainment_center.py
 	3. Alternatively start Python IDLE environment
-	4. Open media.py and select ‘Run Module’ which is under the ‘Run’ tab option.
+	4. Open entertainment_center.py and select ‘Run Module’ which is under the ‘Run’ tab option.
